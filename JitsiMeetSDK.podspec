@@ -12,4 +12,5 @@ Pod::Spec.new do |s|
   s.vendored_frameworks = 'Frameworks/JitsiMeetSDK.xcframework'
   s.dependency 'Giphy', '2.1.20'
   s.dependency 'JitsiWebRTC', '100.0.0'
+
 end
